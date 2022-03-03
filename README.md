@@ -1,11 +1,8 @@
-# hafta1-odev2
+# Tic-Tac-Toe
 
-<strong>2-) Tic Tac Toe Uygulaması</strong>
+- A Tic Tac Toe game that written html, css, js <img src="https://user-images.githubusercontent.com/51738775/155475135-c67af6c5-67a3-4e7c-8656-f422e3a26f0b.png" style="width: 3%;"> <img src="https://user-images.githubusercontent.com/51738775/155476197-c2cb1f53-f553-4ea9-ba36-0de5bc0b3664.png" style="width: 3%;"> <img src="https://user-images.githubusercontent.com/51738775/155478438-39618f0d-abf3-4a54-aa01-83511935b915.png" style="width: 3%;">
 
 
-3x3, 9 kutudan oluşan bir yapı tasarlanacak. 
-Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf kazanan oyuncu olacak. 3lü oluşmazsa oyun berabere sonuçlanacak. Oyun sonucu bir metin ile bildirilmeli.
-(html,css ve javascript kullanılarak yapılacak)
-(querySelector ile html elementlerine erişim sağlayabilirsiniz)
-(style, classList ile stillerle oynayabilirsiniz)
-(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)
+- You can [click](https://keen-hopper-ec6548.netlify.app/) to play! 🎮 🎉
+
+![image](https://user-images.githubusercontent.com/51738775/155472674-da5f1cf8-3ed6-4c60-9fb4-f4ee73922a33.png)
